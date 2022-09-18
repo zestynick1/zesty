@@ -11,7 +11,7 @@
 <p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:150%">whats up gusy zesty nick here</p>
 
 <p style="font-family:'Times New Roman', Times, serif;font-size:100%;float:inline-start;">hey idk what to write but this is my website lol but yeah check it <output></output></p>
-<a href="file:///C:/Users/nicho/Documents/github/zesty/index.html"> visit Nicks website</a>
+<a href="index.html"> visit Nicks website</a>
 </body>
 </html>
 
