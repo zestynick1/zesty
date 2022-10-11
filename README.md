@@ -1,24 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    HI GUYS IM NICK 
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Title</title>
+    <style>
+
+    </style>
 </head>
 <body>
-    <h1 style="background-color:aqua">This is devious reeheheye\</h1>
-      
+    <h1 style="background-color:blue">WELCOME TO NICKS ZESTACULAR WEBSITE</h1>
+    <p>Curae pellentesque, sagittis massa quam. Libero phasellus ad himenaeos, per lacinia placerat, a tristique suspendisse justo dapibus adipiscing vitae. Consequat vulputate lectus, fermentum ornare quisque nibh. Sit et leo nec, at vestibulum mattis, risus lacinia euismod nulla dolor curabitur. Sem aenean adipiscing, augue ad, fames etiam nostra tortor aliquam quam ut. Fringilla molestie faucibus felis, mattis vulputate quis, bibendum imperdiet praesent viverra vivamus sociosqu. Fusce litora euismod dictumst, tristique aliquam per, scelerisque blandit sit accumsan adipiscing consectetur lectus. Auctor varius, morbi magna eros aenean. Nulla iaculis velit venenatis, est augue vehicula, cras mauris himenaeos felis semper ac duis.. </p>
+    <p>Click <a href="index%202.html">here</a> </p>
 
-</picture><img src="https://th.bing.com/th/id/R.59131f10183828dac721fc494a78d4c8?rik=ciSob7mMgpVWNg&pid=ImgRaw&r=0" alt=""/>
-</picture>
-
-<p style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:150%">whats up gusy zesty nick here</p>
-
-<p style="font-family:'Times New Roman', Times, serif;font-size:100%;float:inline-start;">hey idk what to write but this is my website lol but yeah check it <output></output></p>
-<a href="Youtube.com"> visit Nicks website</a>
 </body>
-</html>
-<p>
-"adsijofaspiodfjapsdjfask;dljfkla;sdjfkl;asdjfk;lasdjf;klasjdfaklsjdf;aklsjf;alsdkfja;skldjf;aslkdfj;aklsdfj;aklsdfjaj;skdfja;slf
-    asdfkjasd;flkajs;flkjas;klfj;jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj"
-    </p>
-    
-
+<img src="https://th.bing.com/th/id/OIP.Kx_IOD-NvP2oaI2E_KMY_AHaFj?pid=ImgDet&rs=1">
